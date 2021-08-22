@@ -1,3 +1,3 @@
 # MLOps
-
-Deeplearning.AI 
+Assignments Repository
+Deeplearning.AI, Coursera 
