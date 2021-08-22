@@ -1,3 +1,2 @@
 # MLOps
-Assignments Repository
-Deeplearning.AI, Coursera 
+Assignments Repository for MLOps Specialization @Deeplearning.AI, Coursera 
